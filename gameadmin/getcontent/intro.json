@@ -1,0 +1,82 @@
+{
+  "speak_intro_1": {
+    "contenttype": "label",
+    "content": "Sveikinu atvykus į Pinigėnus! Esu šio miestelio meras ir noriu tau jį pristatyti.",
+    "subtitle": ""
+  },
+  "speak_intro_2": {
+    "contenttype": "label",
+    "content": "Čia, Pinigėnuose, gali užsidirbti aukso ir sidabro monetų ir už jas įsigyti įvairiausių dalykų.",
+    "subtitle": ""
+  },
+  "speak_intro_3": {
+    "contenttype": "label",
+    "content": "Pirmiausia pasirink, kaip norėtum atrodyti.",
+    "subtitle": ""
+  },
+  "speak_intro_4": {
+    "contenttype": "label",
+    "content": "Čia turėsi ir savo kambarį, kuriam papuošti galėsi įsigyti įvairių šaunių daikčiukų.",
+    "subtitle": ""
+  },
+  "speak_intro_5": {
+    "contenttype": "label",
+    "content": "Viską ko reikia rasi nepaprastoje Agotos parduotuvėje.",
+    "subtitle": ""
+  },
+  "speak_intro_6": {
+    "contenttype": "label",
+    "content": "Savo monetas gali išleisti ir kelionėj laiko mašina, kurią sukūrė Kvaištelėjęs profesorius. Tu nusikelsi į praeitį, kur tavęs laukia daugybė įdomių žaidimų.",
+    "subtitle": ""
+  },
+  "speak_intro_7": {
+    "contenttype": "label",
+    "content": "Užsidirbsi monetų, jei padėsi paštininkei pristatyti laiškus.",
+    "subtitle": ""
+  },
+  "speak_intro_8": {
+    "contenttype": "label",
+    "content": "Arba rinksi obuolius ir pardavinėsi obuolių sultis visiems Pinigėnų gyventojams.",
+    "subtitle": ""
+  },
+  "speak_intro_9": {
+    "contenttype": "label",
+    "content": "O jei padėsi man nudažyti miesto vartus naujomis ryškiomis spalvomis, gausi auksinę monetą.",
+    "subtitle": ""
+  },
+  "speak_intro_10": {
+    "contenttype": "label",
+    "content": "Jeigu jau moki skaityti ir skaičiuoti, gali žaisti šeimos žaidimą. Čia užsidirbsi taškų už tai, kad vienus metus padėsi šeimai atlikti įvairius darbus.",
+    "subtitle": ""
+  },
+  "speak_intro_11": {
+    "contenttype": "label",
+    "content": "Pinigėnai turi ir savo burtininką, kuris saugo didelę paslaptį. Tai milžiniškas auksinių monetų lobis, užkastas šiame mieste ir jeigu tau pasiseks, burtininkas atskleis kur jis paslėptas.",
+    "subtitle": ""
+  },
+  "speak_intro_farm": {
+    "contenttype": "label",
+    "content": "Taip pat galėsi užsidirbti padėdamas pašerti gyvulius ūkininko fermoje. O jei padėsi man nudažyti miesto vartus naujomis ryškiomis spalvomis, gausi auksinę monetą.",
+    "subtitle": ""
+  },
+  "pengeby_closeSubtitles": {
+    "contenttype": "label",
+    "content": "Slėpti tekstą",
+    "subtitle": ""
+  },
+  "pengeby_subtitlesButtonOff": {
+    "contenttype": "label",
+    "content": "Įjunkite subtitrus",
+    "subtitle": ""
+  },
+  "pengeby_subtitlesButtonOn": {
+    "contenttype": "label",
+    "content": "Išjungti tekstus",
+    "subtitle": ""
+  },
+  "pengeby_yourName": {
+    "contenttype": "label",
+    "content": "Parašyk savo vardą",
+    "subtitle": ""
+  }
+}

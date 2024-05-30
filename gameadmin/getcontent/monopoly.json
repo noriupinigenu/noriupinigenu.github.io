@@ -1,0 +1,1655 @@
+{
+  "monopoly_add_point0": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_3_0.mp3",
+    "subtitle": "Du har penge nok, så du får et point"
+  },
+  "monopoly_add_point1": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_4_0.mp3",
+    "subtitle": "Du får et point, fordi du har penge nok"
+  },
+  "monopoly_withdraw_point": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_2_0.mp3",
+    "subtitle": "Du har ikke penge nok, så du får trukket et point"
+  },
+  "speak_b_monopoly_bank_move": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_speak_paa_flytte_hus_ikon.mp3",
+    "subtitle": "Her kan du flytte til et andet hus og skifte familiens transportmiddel og kæledyr. Men det koster penge at gøre det!"
+  },
+  "speak_b_monopoly_budgetView": {
+    "contenttype": "sound",
+    "content": "dk_visning_af_opsparing_1.mp3",
+    "subtitle": "Her kan du se, hvad familiens penge er brugt til i denne måned - og hvor mange, der er tilbage til næste måned! Hvordan klarer du det?"
+  },
+  "speak_b_monopoly_create_family": {
+    "contenttype": "sound",
+    "content": "dk_sammensaet_familie.mp3",
+    "subtitle": "Her skal du vælge, hvem der skal være med i familien. Husk at give dem navne! Du bestemmer selv, om der skal være 1 eller 2 voksne. Og også hvor mange børn, der skal være. Du kan dog højst vælge 6 børn i én familie. Når du har valgt en familie, så klik på den grønne knap!"
+  },
+  "speak_b_monopoly_create_house": {
+    "contenttype": "sound",
+    "content": "dk_vaelg_bolig_mm.mp3",
+    "subtitle": "Nu skal du vælge, hvordan familien skal bo, hvordan de skal komme rundt til familie og venner, og hvilket kæledyr de skal have. Til højre kan du se, hvor mange penge familien får hver måned. Husk at tingene ikke koster det samme. Når du er færdig, så klik på den grønne knap for at starte spillet."
+  },
+  "speak_b_monopoly_event_gotMoney0": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_3.mp3",
+    "subtitle": "Du har penge nok, så du får et point"
+  },
+  "speak_b_monopoly_event_gotMoney1": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_4.mp3",
+    "subtitle": "Du får et point, fordi du har penge nok"
+  },
+  "speak_b_monopoly_event_noMoney": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_2.mp3",
+    "subtitle": "Du har ikke penge nok, så du får trukket et point"
+  },
+  "speak_b_monopoly_gameOver": {
+    "contenttype": "sound",
+    "content": "dk_slut_paa_spil.mp3",
+    "subtitle": "Så er spillet slut! Her kan du se, hvor mange point du fik! Hvordan synes du, at du klarede det? Du kan prøve igen, hvis du gerne vil se, om du kan gøre det endnu bedre"
+  },
+  "speak_b_monopoly_leaveGame": {
+    "contenttype": "sound",
+    "content": "dk_ved_luk_klik_paa_pengebyikon.mp3",
+    "subtitle": "Klik på den grønne knap, hvis du gerne vil gemme dit spil, så du kan spille videre på et andet tidspunkt. Hvis du ikke vil gemme dit spil, klikker du i stedet på den røde knap."
+  },
+  "speak_b_monopoly_newYearsEve_helptxt": {
+    "contenttype": "sound",
+    "content": "dk_aarsafslutning.mp3",
+    "subtitle": "Så er året gået - og dét skal fejres med en stor fest! Nu kan du bruge de sidste af de penge, du har sparet op. Klik på de ting, du gerne vil købe til festen!"
+  },
+  "speak_b_monopoly_next_month1": {
+    "contenttype": "sound",
+    "content": "dk_maanedskift_1.mp3",
+    "subtitle": "Når du vil gå til næste måned, så klik på den grønne knap."
+  },
+  "speak_b_monopoly_next_month2": {
+    "contenttype": "sound",
+    "content": "dk_maanedskift_2.mp3",
+    "subtitle": "Er du klar til næste måned? Så klik på den grønne knap."
+  },
+  "speak_b_monopoly_rollOver_bank": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_1.mp3",
+    "subtitle": "Det her er banken. Her kan du se, hvor mange penge familien har lige nu."
+  },
+  "speak_b_monopoly_saveUpMoney_gotMoney": {
+    "contenttype": "sound",
+    "content": "dk_visning_af_opsparing_1_0.mp3",
+    "subtitle": "Hvis der er penge i overskud, er det en god idé at spare nogle af dem op nu."
+  },
+  "speak_b_monopoly_saveUpMoney_noMoney": {
+    "contenttype": "sound",
+    "content": "dk_visning_af_opsparing_2.mp3",
+    "subtitle": "Der er ikke nogle penge. Derfor kan du ikke spare op lige nu."
+  },
+  "speak_b_monopoly_summerHoliday_helpTxt": {
+    "contenttype": "sound",
+    "content": "dk_sommerferie.mp3",
+    "subtitle": "Nu skal familien rejse på sommerferie! Hvor synes du, at rejsen skal gå til? Klik på den grønne knap på det sted, hvor du vil hen. Husk at du skal have sparet nok penge op til rejsen."
+  },
+  "speak_b_monopoly_summerHoliday_moveOn": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_5.mp3",
+    "subtitle": "Så er sommerferien slut. Hvordan klarede du dig? Klik på den grønne knap for at fortsætte spillet."
+  },
+  "speak_b_monopoly_toolbar_point": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_speak_paa_point.mp3",
+    "subtitle": "Det her er dine point. Pointene får du for hjælpe familien med at betale for de ting, der sker i løbet af året og for at sørge for familiens kæledyr og transportmiddel."
+  },
+  "speak_b_monopoly_toolbar_savings": {
+    "contenttype": "sound",
+    "content": "dk_revideret_speak_til_roll_over_paa_sparegrisen.mp3",
+    "subtitle": "Det her er sparegrisen. Her kan du se, hvor mange penge familien har fået sparet op til sommerferie og til fest."
+  },
+  "speak_b_monopoly_velkomst_og_forklaring": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring.mp3",
+    "subtitle": "Velkommen til Familiespillet! Her skal du hjælpe en familie med at betale for de ting, der vil ske i løbet af året. Du skal også sørge for, at give familiens kæledyr mad og du skal vaske og passe på familiens transportmiddel, så de altid kan komme rundt og besøge familie og venner. Du får point for begge dele, hvis du klarer det godt! Men husk, at det er også vigtigt at spare penge op, så familien har råd til at komme på en god sommerferie og til at holde en stor fest, når året er slut. Klik på den grønne knap for at gå i gang."
+  },
+  "speak_b_monopoly_velkomst_og_forklaring_hentSpil": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring-savedGame.mp3",
+    "subtitle": "Velkommen til Familiespillet! Her skal du hjælpe en familie med at betale for de ting, der vil ske i løbet af året. Du skal også sørge for, at give familiens kæledyr mad og du skal vaske og passe på familiens transportmiddel, så de altid kan komme rundt og besøge familie og venner. Du får point for begge dele, hvis du klarer det godt! Men husk, at det er også vigtigt at spare penge op, så familien har råd til at komme på en god sommerferie og til at holde en stor fest, når året er slut. Hvis du har gemt et spil, kan du hente det nu. Ellers kan du også starte et helt nyt spil!"
+  },
+  "monopoly_bank_change_items": {
+    "contenttype": "label",
+    "content": "Skift bolig, kæledyr eller transportmiddel",
+    "subtitle": ""
+  },
+  "monopoly_bank_equals": {
+    "contenttype": "label",
+    "content": "Viso",
+    "subtitle": ""
+  },
+  "monopoly_bank_fee": {
+    "contenttype": "label",
+    "content": "Flytning",
+    "subtitle": ""
+  },
+  "monopoly_bank_header1": {
+    "contenttype": "label",
+    "content": "Šio mėnesio įvykiai",
+    "subtitle": ""
+  },
+  "monopoly_bank_header2": {
+    "contenttype": "label",
+    "content": "Kito mėnesio fiksuotos pajamos ir išlaidos",
+    "subtitle": ""
+  },
+  "monopoly_bank_house": {
+    "contenttype": "label",
+    "content": "Namas",
+    "subtitle": ""
+  },
+  "monopoly_bank_income": {
+    "contenttype": "label",
+    "content": "Pajamos",
+    "subtitle": ""
+  },
+  "monopoly_bank_mechanic": {
+    "contenttype": "label",
+    "content": "Mechanikas. Pamiršai sutvarkyti savo automobilį",
+    "subtitle": ""
+  },
+  "monopoly_bank_pet": {
+    "contenttype": "label",
+    "content": "Gyvūnėliai",
+    "subtitle": ""
+  },
+  "monopoly_bank_petdoctor": {
+    "contenttype": "label",
+    "content": "Veterinatas. Pamiršai pamaitinti savo naminį gyvūnėlį",
+    "subtitle": ""
+  },
+  "monopoly_bank_savings": {
+    "contenttype": "label",
+    "content": "Taupyk atostogoms arba metų šventei",
+    "subtitle": ""
+  },
+  "monopoly_bank_transaction": {
+    "contenttype": "label",
+    "content": "Pervedimai (Overførsel)",
+    "subtitle": ""
+  },
+  "monopoly_bank_transaction_mechanic": {
+    "contenttype": "label",
+    "content": "Mechanikas",
+    "subtitle": ""
+  },
+  "monopoly_bank_transaction_petdoctor": {
+    "contenttype": "label",
+    "content": "Veterinatas",
+    "subtitle": ""
+  },
+  "monopoly_bank_transport": {
+    "contenttype": "label",
+    "content": "Transportas",
+    "subtitle": ""
+  },
+  "monopoly_highscore_on_highscore": {
+    "contenttype": "label",
+    "content": "på highscorelisten...",
+    "subtitle": ""
+  },
+  "monopoly_highscore_play_again": {
+    "contenttype": "label",
+    "content": "Žaisti vėl",
+    "subtitle": ""
+  },
+  "monopoly_highscore_small_header": {
+    "contenttype": "label",
+    "content": "Tavo taškai =",
+    "subtitle": ""
+  },
+  "monopoly_highscore_veiw_highscore": {
+    "contenttype": "label",
+    "content": "Se highscorelisten!",
+    "subtitle": ""
+  },
+  "monopoly_highscore_you_are": {
+    "contenttype": "label",
+    "content": "Du ligger nummer ",
+    "subtitle": ""
+  },
+  "monopoly_highscore_your_best_score": {
+    "contenttype": "label",
+    "content": "Din bedste score =",
+    "subtitle": ""
+  },
+  "monopoly_highscore_your_score": {
+    "contenttype": "label",
+    "content": "Din Score =",
+    "subtitle": ""
+  },
+  "monopoly_intro_new_game": {
+    "contenttype": "label",
+    "content": "Naujas žaidimas",
+    "subtitle": ""
+  },
+  "monopoly_intro_saved_game": {
+    "contenttype": "label",
+    "content": "Gemt spil",
+    "subtitle": ""
+  },
+  "monopoly_occ_status_eco_neg_balance": {
+    "contenttype": "label",
+    "content": "Tavo sąskaitoje nepakanka pinigų",
+    "subtitle": ""
+  },
+  "monopoly_occ_status_eco_pos_balance": {
+    "contenttype": "label",
+    "content": "Tavo sąskaitoje yra pakankamai pinigų",
+    "subtitle": ""
+  },
+  "monopoly_occ_status_label": {
+    "contenttype": "label",
+    "content": "IŠ VISO",
+    "subtitle": ""
+  },
+  "monopoly_print_score": {
+    "contenttype": "label",
+    "content": "har opnået en score på:",
+    "subtitle": ""
+  },
+  "monopoly_save_game": {
+    "contenttype": "label",
+    "content": "Vil du gemme spillet?",
+    "subtitle": ""
+  },
+  "monopoly_startup_enter_name": {
+    "contenttype": "label",
+    "content": "skriv navn",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_adults": {
+    "contenttype": "label",
+    "content": "Suaugęs asmuo",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_boys": {
+    "contenttype": "label",
+    "content": "Drenge",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_children": {
+    "contenttype": "label",
+    "content": "Vaikai",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_girls": {
+    "contenttype": "label",
+    "content": "Piger",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_men": {
+    "contenttype": "label",
+    "content": "Mænd",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_woman": {
+    "contenttype": "label",
+    "content": "Kvinder",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_appartment": {
+    "contenttype": "label",
+    "content": "Lejlighed",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_castle": {
+    "contenttype": "label",
+    "content": "Slot",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_city": {
+    "contenttype": "label",
+    "content": "By",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_color": {
+    "contenttype": "label",
+    "content": "Farve",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_country": {
+    "contenttype": "label",
+    "content": "Landet",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_expences": {
+    "contenttype": "label",
+    "content": "UDGIFTER",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_farm": {
+    "contenttype": "label",
+    "content": "Bondegård",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_fee": {
+    "contenttype": "label",
+    "content": "GEBYR",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_house": {
+    "contenttype": "label",
+    "content": "Hus",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_income": {
+    "contenttype": "label",
+    "content": "Pajamos",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_name": {
+    "contenttype": "label",
+    "content": "NAVN",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_pet": {
+    "contenttype": "label",
+    "content": "KæLEDYR",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_place": {
+    "contenttype": "label",
+    "content": "STED",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_residence": {
+    "contenttype": "label",
+    "content": "BOLIG",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_revenue": {
+    "contenttype": "label",
+    "content": "Perteklius",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_rowhouse": {
+    "contenttype": "label",
+    "content": "Rækkehus",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_transport": {
+    "contenttype": "label",
+    "content": "TRANSPORTmiddel",
+    "subtitle": ""
+  },
+  "monopoly_startup_toolbar_family": {
+    "contenttype": "label",
+    "content": "SUKURTI ŠEIMĄ\nTavo šeimoje turi būti bent vienas suaugęs žmogus ir bent vienas vaikas. Kai pasirinksi personažą, suteik jam vardą.",
+    "subtitle": ""
+  },
+  "monopoly_startup_toolbar_items": {
+    "contenttype": "label",
+    "content": "ŠEIMOS IŠLAIDOS\nČia turi pasirinkti šeimos namą, transporto priemonę, kuria jie važiuos lankyti giminaičių ir draugų, ir išrinkti jų naminį gyvūnėlį. Dešinėje gali matyti, kiek šeima uždirba pinigų ir kiek kainuoja įvairūs dalykai.",
+    "subtitle": ""
+  },
+  "monopoly_summer_africa": {
+    "contenttype": "label",
+    "content": "Afrika",
+    "subtitle": ""
+  },
+  "monopoly_summer_antarctic": {
+    "contenttype": "label",
+    "content": "Antarktida",
+    "subtitle": ""
+  },
+  "monopoly_summer_asia": {
+    "contenttype": "label",
+    "content": "Azija",
+    "subtitle": ""
+  },
+  "monopoly_summer_australia": {
+    "contenttype": "label",
+    "content": "Australija",
+    "subtitle": ""
+  },
+  "monopoly_summer_europe": {
+    "contenttype": "label",
+    "content": "Europa",
+    "subtitle": ""
+  },
+  "monopoly_summer_header": {
+    "contenttype": "label",
+    "content": "Kur norėtum nukeliauti?",
+    "subtitle": ""
+  },
+  "monopoly_summer_no_more_answers": {
+    "contenttype": "label",
+    "content": "Daugiau klausimų nėra",
+    "subtitle": ""
+  },
+  "monopoly_summer_north_america": {
+    "contenttype": "label",
+    "content": "Šiaurės Amerika",
+    "subtitle": ""
+  },
+  "monopoly_summer_right_answer": {
+    "contenttype": "label",
+    "content": "Teisingas atsakymas",
+    "subtitle": ""
+  },
+  "monopoly_summer_south_america": {
+    "contenttype": "label",
+    "content": "Pietų Amerika",
+    "subtitle": ""
+  },
+  "monopoly_summer_wrong_answer": {
+    "contenttype": "label",
+    "content": "Neteisingas atsakymas",
+    "subtitle": ""
+  },
+  "q1": {
+    "contenttype": "question",
+    "content": "I hvilket land kan man se Eiffeltårnet?",
+    "subtitle": "europe",
+    "option1": "Frankrig",
+    "option2": "Tyskland",
+    "option3": "Danmark",
+    "correctoption": "1",
+    "correcttext": "Eiffeltårnet ligger Frankrig. Faktisk ligger det i Paris, som er hovedstanden i Frankrig."
+  },
+  "q2": {
+    "contenttype": "question",
+    "content": "Hvilket land ligger ikke i Europa?",
+    "subtitle": "europe",
+    "option1": "Japan",
+    "option2": "østrig",
+    "option3": "Finland",
+    "correctoption": "1",
+    "correcttext": "Japan ligger ikke i Europa. Det ligger i Asien."
+  },
+  "q3": {
+    "contenttype": "question",
+    "content": "Hvad kalder man de penge, som mange af landene i Europa har?",
+    "subtitle": "europe",
+    "option1": "Loggi",
+    "option2": "Mark",
+    "option3": "Euro",
+    "correctoption": "3",
+    "correcttext": "Mange af landene i Europa har Euro. Det har de blandt andet i Tyskland, Spanien, Holland og Grækenland."
+  },
+  "q4": {
+    "contenttype": "question",
+    "content": "Hvilket dyr lever ikke i Europa?",
+    "subtitle": "europe",
+    "option1": "Køer",
+    "option2": "Elefanter",
+    "option3": "Bjørne",
+    "correctoption": "2",
+    "correcttext": "Elefanter lever ikke i Europa. De lever kun i Afrika og i Indien."
+  },
+  "q5": {
+    "contenttype": "question",
+    "content": "Hvis du står i byen Rom, hvilket land er du så i?",
+    "subtitle": "northamerica",
+    "option1": "Belgien",
+    "option2": "Spanien",
+    "option3": "Italien",
+    "correctoption": "3",
+    "correcttext": "Hvis du står i Rom, er du i Italien. Rom er nemlig hovedstaden i Italien."
+  },
+  "q6": {
+    "contenttype": "question",
+    "content": "Kaip vadinama valiuta, naudojama didžiosiose Šiaurės Amerikos žemyno šalyse?",
+    "subtitle": "northamerica",
+    "option1": "Euras",
+    "option2": "Doleris",
+    "option3": "Markė",
+    "correctoption": "2",
+    "correcttext": "Ši valiuta vadinama doleriu. Doleris naudojamas Jungtinėse Amerikos Valstijose ir Kanadoje."
+  },
+  "q7": {
+    "contenttype": "question",
+    "content": "Iš kokios šalies kilo muzikos stilius, vadinamas regiu?",
+    "subtitle": "northamerica",
+    "option1": "Kubos",
+    "option2": "Jungtinių Amerikos Valstijų",
+    "option3": "Jamaikos",
+    "correctoption": "3",
+    "correcttext": "Regiu vadinamas muzikos stilius kilo iš Jamaikos."
+  },
+  "q8": {
+    "contenttype": "question",
+    "content": "Kuri iš šių šalių nėra Šiaurės Amerikoje?",
+    "subtitle": "northamerica",
+    "option1": "Argentina",
+    "option2": "Kanada",
+    "option3": "Meksika",
+    "correctoption": "1",
+    "correcttext": "Argentina nėra Šiaurės Amerikoje. Ji yra Pietų Amerikoje."
+  },
+  "q9": {
+    "contenttype": "question",
+    "content": "Kuo vardu Jungtinių Amerikos Valstijų prezidentas?",
+    "subtitle": "northamerica",
+    "option1": "Džordžas Bušas",
+    "option2": "Bilas Klintonas",
+    "option3": "Donaldas Trampas",
+    "correctoption": "3",
+    "correcttext": "Dabartinis Jungtinių Amerikos Valstijų prezidentas yra Donaldas Trampas. Kiti du yra buvę JAV prezidentai."
+  },
+  "q10": {
+    "contenttype": "question",
+    "content": "Kuris iš šių gyvūnų negyvena Šiaurės Amerikoje?",
+    "subtitle": "northamerica",
+    "option1": "Kengūra",
+    "option2": "Avis",
+    "option3": "Arklys",
+    "correctoption": "1",
+    "correcttext": "Kengūros negyvena Šiaurės Amerikoje. Jos gyvena Australijoje."
+  },
+  "q11": {
+    "contenttype": "question",
+    "content": "Hvad hedder den største og mest kendte flod i Syd Amerika?",
+    "subtitle": "southamerica",
+    "option1": "Amazon floden",
+    "option2": "Nilen",
+    "option3": "Storfloden",
+    "correctoption": "1",
+    "correcttext": "Den største og mest kendte flod hedder Amazonfloden. Den løber hovedsageligt igennem Brasilien."
+  },
+  "q12": {
+    "contenttype": "question",
+    "content": "I hvilket land danser man meget samba?",
+    "subtitle": "southamerica",
+    "option1": "Chile",
+    "option2": "Argentina",
+    "option3": "Brasilien",
+    "correctoption": "3",
+    "correcttext": "Det gør man i Brasilien. Der er hvert år et karneval i byen Rio de Janeiro, hvor de danser meget samba!"
+  },
+  "q13": {
+    "contenttype": "question",
+    "content": "Hvilket land ligger ikke i Sydamerika?",
+    "subtitle": "southamerica",
+    "option1": "Peru",
+    "option2": "Etiopien",
+    "option3": "Uruguay",
+    "correctoption": "2",
+    "correcttext": "Etiopien ligger ikke i Sydamerika. Det ligger i Afrika."
+  },
+  "q14": {
+    "contenttype": "question",
+    "content": "Hvilket dyr, som er kendt for at spytte, lever i Sydamerika?",
+    "subtitle": "northamerica",
+    "option1": "Løve",
+    "option2": "Lama",
+    "option3": "Isbjørne",
+    "correctoption": "2",
+    "correcttext": "Lamaer lever i Sydamerika. De er kendt for at spytte, når de føler sig truet."
+  },
+  "q15": {
+    "contenttype": "question",
+    "content": "Hvilket gammelt folkefærd stammer fra Sydamerika?",
+    "subtitle": "southamerica",
+    "option1": "Munke",
+    "option2": "Beduiner",
+    "option3": "Inkaer",
+    "correctoption": "3",
+    "correcttext": "Inkaerne stammer fra Sydamerika. De var engang et af verdens største samfund."
+  },
+  "q16": {
+    "contenttype": "question",
+    "content": "Der ligger en meget stor ørken i Afrika. Hvad kalder man den?",
+    "subtitle": "africa",
+    "option1": "Sarah",
+    "option2": "Sahara",
+    "option3": "Ohara",
+    "correctoption": "2",
+    "correcttext": "ørkenen hedder Sahara, og det er verdens største ørken. Der kan blive over 55 grader varmt!"
+  },
+  "q17": {
+    "contenttype": "question",
+    "content": "Hvilken stor og meget lang flod ligger i Afrika?",
+    "subtitle": "africa",
+    "option1": "Mississippi",
+    "option2": "Amazon floden",
+    "option3": "Nilen",
+    "correctoption": "3",
+    "correcttext": "Nilen ligger i Afrika. Den er meget lang, nemlig over 6.500 kilometer."
+  },
+  "q18": {
+    "contenttype": "question",
+    "content": "Hvilket dyr lever i Afrika?",
+    "subtitle": "africa",
+    "option1": "Elefant",
+    "option2": "Tiger",
+    "option3": "Lama",
+    "correctoption": "1",
+    "correcttext": "Elefanten lever i Afrika - men også i Indien. Forskellen på dem er, at de afrikanske elefanter har meget store ører, og de indiske har meget små ører."
+  },
+  "q19": {
+    "contenttype": "question",
+    "content": "Hvilket land ligger ikke i Afrika?",
+    "subtitle": "africa",
+    "option1": "Uruguay",
+    "option2": "Madagaskar",
+    "option3": "Ghana",
+    "correctoption": "1",
+    "correcttext": "Uruguay ligger ikke i Afrika. Det ligger i Syd Amerika."
+  },
+  "q20": {
+    "contenttype": "question",
+    "content": "Hvad hedder det højeste bjerg i Afrika?",
+    "subtitle": "africa",
+    "option1": "Alperne",
+    "option2": "Kilimanjaro",
+    "option3": "Mount Everest",
+    "correctoption": "2",
+    "correcttext": "Kilimanjaro er det højeste bjerg i Afrika. Det er over 5.800 meter!"
+  },
+  "q21": {
+    "contenttype": "question",
+    "content": "Hvad kalder man de indfødte i Australien?",
+    "subtitle": "australia",
+    "option1": "Indianere",
+    "option2": "Aboriginies",
+    "option3": "Beduiner",
+    "correctoption": "2",
+    "correcttext": "Aboriginies er Australiens indfødte befolkning. De har levet der i over 30.000 år!"
+  },
+  "q22": {
+    "contenttype": "question",
+    "content": "Hvilket gammelt våben kommer fra Australien?",
+    "subtitle": "australia",
+    "option1": "Pistol",
+    "option2": "Sabel",
+    "option3": "Boomerang",
+    "correctoption": "3",
+    "correcttext": "Boomerangen kommer fra Australien. Den kommer tilbage, når man kaster den."
+  },
+  "q23": {
+    "contenttype": "question",
+    "content": "I Australien ligger verdens største sten. Hvad hedder den?",
+    "subtitle": "australia",
+    "option1": "Flintstone",
+    "option2": "Ayers Rock",
+    "option3": "Hard Rock",
+    "correctoption": "2",
+    "correcttext": "Verdens største sten hedder Ayers Rock. Man kan genkende den på sin røde farve."
+  },
+  "q24": {
+    "contenttype": "question",
+    "content": "Hvilket instrument kommer fra Australien?",
+    "subtitle": "northamerica",
+    "option1": "Digeridoo",
+    "option2": "Trommer",
+    "option3": "Tuba",
+    "correctoption": "1",
+    "correcttext": "Digeridooen kommer fra Australien. Det er nærmest et langt rør af træ, og siger en helt specielt lyd!"
+  },
+  "q25": {
+    "contenttype": "question",
+    "content": "Koalabjørnen lever i Australien. Men hvad spiser den?",
+    "subtitle": "australia",
+    "option1": "Korn",
+    "option2": "Andre dyr",
+    "option3": "Eukalyptus blade",
+    "correctoption": "3",
+    "correcttext": "Koalabjørnen spiser eukalyptus blade!"
+  },
+  "q26": {
+    "contenttype": "question",
+    "content": "Hvilket sprog taler man ikke i Asien?",
+    "subtitle": "asia",
+    "option1": "Græsk",
+    "option2": "Kinesisk",
+    "option3": "Indisk",
+    "correctoption": "1",
+    "correcttext": "Man taler ikke græsk i Asien. Det gør man nemlig i Grækenland."
+  },
+  "q27": {
+    "contenttype": "question",
+    "content": "Hvilket land stammer ris fra?",
+    "subtitle": "asia",
+    "option1": "Indien",
+    "option2": "Filippinerne",
+    "option3": "Kina",
+    "correctoption": "2",
+    "correcttext": "Ris stammer fra Kina, men man spiser det også i de andre lande."
+  },
+  "q28": {
+    "contenttype": "question",
+    "content": "Hvilket land ligger ikke i Asien?",
+    "subtitle": "asia",
+    "option1": "Japan",
+    "option2": "Vietnam",
+    "option3": "Peru",
+    "correctoption": "3",
+    "correcttext": "Peru ligger ikke i Asien. Det ligger i Sydamerika."
+  },
+  "q29": {
+    "contenttype": "question",
+    "content": "Hvilket land bor der flest mennesker i?",
+    "subtitle": "asia",
+    "option1": "Vietnam",
+    "option2": "Kina",
+    "option3": "Taiwan",
+    "correctoption": "2",
+    "correcttext": "Det gør der i Kina. Faktisk bor der over 1,3 milliard mennesker!"
+  },
+  "q30": {
+    "contenttype": "question",
+    "content": "Hvad hedder hovedstaden i Japan?",
+    "subtitle": "asia",
+    "option1": "Tokyo",
+    "option2": "Beijing",
+    "option3": "Berlin",
+    "correctoption": "1",
+    "correcttext": "Hovedstaden i Japan hedder Tokyo. Beijing ligger i Kina, og Berlin ligger i Tyskland."
+  },
+  "monopoly_occurence_button_show": {
+    "contenttype": "sound",
+    "content": "postoffice_fejl_lyd_3_0.mp3",
+    "subtitle": ""
+  },
+  "monopoly_pointSound_smiley": {
+    "contenttype": "sound",
+    "content": "Ok lyd 2.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_bigCar": {
+    "contenttype": "sound",
+    "content": "bil horn big car.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_cat": {
+    "contenttype": "sound",
+    "content": "Kat.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_cykel": {
+    "contenttype": "sound",
+    "content": "cykel ringeklokke.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_dog": {
+    "contenttype": "sound",
+    "content": "Hund.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_fisk": {
+    "contenttype": "sound",
+    "content": "Fisk2.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_fugl": {
+    "contenttype": "sound",
+    "content": "Fugl.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_hamster": {
+    "contenttype": "sound",
+    "content": "Hamster.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_motorCykel": {
+    "contenttype": "sound",
+    "content": "motorcykel horn.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_smallCar": {
+    "contenttype": "sound",
+    "content": "bil horn small car.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_spider": {
+    "contenttype": "sound",
+    "content": "Edderkop.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_van": {
+    "contenttype": "sound",
+    "content": "bil horn small car_0.mp3",
+    "subtitle": ""
+  },
+  "monopoly_startMonth_sound": {
+    "contenttype": "sound",
+    "content": "newMonth.mp3",
+    "subtitle": ""
+  },
+  "monopoly_summerHoliday_musicLoop": {
+    "contenttype": "sound",
+    "content": "summerholiday.mp3",
+    "subtitle": ""
+  },
+  "Arv": {
+    "shortname": "Arv",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "Familien arvede pludselig 5 guldmønter fra en rig og ukendt onkel i Amerika!",
+    "person": "all",
+    "facteventmoney": "50",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "Bøde for rødt lys": {
+    "shortname": "Bøde for rødt lys",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "En i familien har fået en bøde på 3 guldmønter for at køre over for rødt lys. Det var dumt.",
+    "person": "all",
+    "facteventmoney": "-30",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "Bold smadrer rude": {
+    "shortname": "Bold smadrer rude",
+    "contenttype": "event",
+    "month": "july",
+    "eventtext": "Familien spiller bold i haven. Bolden rammer et vindue, der smadrer. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Få en glarmester til at sætte en ny vinduesrude i til 8 sølvmønter",
+    "consequence1text": "Glarmesteren skulle også have 1 guldmønt og 6 sølvmønter i løn og 4 sølvmønter for at køre ud til familien",
+    "consequence1money": "-28",
+    "consequence2title": "Købe en ny rude til 8 sølvmønter og selv reparere vinduet",
+    "consequence2text": "Reparationen gik heldigvis fint",
+    "consequence2money": "-8",
+    "consequence3title": "Lade vinduesruden være som den er. Lige nu er det jo sommer og varmt",
+    "consequence3text": "En fugl fløj ind gennem den smadrede rude, og der røg en fin vase på gulvet. Vasen kostede 1 guldmønt",
+    "consequence3money": "-10"
+  },
+  "Ekstra regning": {
+    "shortname": "Ekstra regning",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "Familien fik en uventet regning. De skulle derfor betale 4 guldmønter med det samme!",
+    "person": "all",
+    "facteventmoney": "-40",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "En fugl ødelægger skorstenen": {
+    "shortname": "En fugl ødelægger skorstenen",
+    "contenttype": "event",
+    "month": "december",
+    "eventtext": "En fugl har bygget rede i skorstenen. Desværre går skorstenen i stykker, og 5 sten falder af. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Købe et skorstensrør af stål til 1 guldmønt og 2 sølvmønter og sætte det op i stedet",
+    "consequence1text": "Skorstenen blev ikke så pæn, men det virkede",
+    "consequence1money": "-12",
+    "consequence2title": "Købe nogle nye mursten og forsøge selv at reparere skorstenen",
+    "consequence2text": "Familien købte 5 sten til 1 sølvmønter pr. stk. Reparationen gik heldigvis fint",
+    "consequence2money": "-5",
+    "consequence3title": "Få en murer til at lave det",
+    "consequence3text": "Mureren skulle have 2 sølvmønter for hver sten plus en løn på 1 guldmønt og 7 sølvmønter",
+    "consequence3money": "-27"
+  },
+  "Faldt på skøjter": {
+    "shortname": "Faldt på skøjter",
+    "contenttype": "event",
+    "month": "january",
+    "eventtext": "\u003Cname\u003E var ude for at stå på skøjter på isen og faldt og slog hovedet. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Ringe efter en ambulance",
+    "consequence1text": "Ambulancen kom med det samme og kørte \u003Cname\u003E på sygehuset. Der var heldigvis ikke sket noget alvorligt",
+    "consequence1money": "",
+    "consequence2title": "Give \u003Cname\u003E nogle hovedpinepiller",
+    "consequence2text": "Der var ikke flere hovedpinepiller tilbage. Det kostede 7 sølvmønter at købe nogle nyeÂ ",
+    "consequence2money": "-7",
+    "consequence3title": "Ringe efter en læge",
+    "consequence3text": "Lægen sagde, at der ikke var sket noget, men at familien skulle købe nogle bestemte hovedpinepiller til 5 sølvmønter til \u003Cname\u003E",
+    "consequence3money": "-5"
+  },
+  "Familiefødselsdag": {
+    "shortname": "Familiefødselsdag",
+    "contenttype": "event",
+    "month": "september",
+    "eventtext": "Familien bliver inviteret til en familiefødselsdag i den anden ende af landet. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Takke ja til invitationen og købe en fin gave til 1 guldmønt og 5 sølvmønter",
+    "consequence1text": "Familien tog toget over til fødselsdagen. Turen kostede i alt 1 guldmønt",
+    "consequence1money": "-25",
+    "consequence2title": "Melde afbud for at kunne spare de 1 guldmønt og 5 sølvmønter til gaven",
+    "consequence2text": "Familien valgte at gå på restaurant om aftenen i stedet for. Det kostede 1 guldmønt og 5 sølvmønter",
+    "consequence2money": "-15",
+    "consequence3title": "Melde afbud, men stadig sende en fødselsdaggave til 1 guldmønt med posten",
+    "consequence3text": "Posten kostede 3 sølvmønter",
+    "consequence3money": "-13"
+  },
+  "Fartbøde": {
+    "shortname": "Fartbøde",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "\u003Cname\u003E havde kørt for hurtigt, og fik en fartbøde på 4 guldmønter. Det var dumt.",
+    "person": "all",
+    "facteventmoney": "-40",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "Fjernsyn gået i stykker": {
+    "shortname": "Fjernsyn gået i stykker",
+    "contenttype": "event",
+    "month": "november",
+    "eventtext": "En stol vælter pludselig ind i fjernsynet, så det går i stykker. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Holde op med at se fjernsyn",
+    "consequence1text": "Familien skal ikke længere betale 1 guldmønt i tv-licens",
+    "consequence1money": "10",
+    "consequence2title": "Købe et andet fjernsyn til 2 guldmønter og få det bragt ud",
+    "consequence2text": "Det viste sig, at familien også skulle betale 5 sølvmønter for at få fjernsynet bragt ud",
+    "consequence2money": "-25",
+    "consequence3title": "Få fjernsynet repareret for 1 guldmønt samt 5 sølvmønter i transport",
+    "consequence3text": "Det viste sig, at familien også skulle betale 5 sølvmønter for at få fjernsynet sat op",
+    "consequence3money": "-20"
+  },
+  "Fodbold": {
+    "shortname": "Fodbold",
+    "contenttype": "event",
+    "month": "july",
+    "eventtext": "\u003Cname\u003E vil gerne spille fodbold, men mangler tøj og fodboldstøvler. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Sige til \u003Cname\u003E, at der ikke er råd til at spille fodbold lige nu",
+    "consequence1text": "\u003Cname\u003E blev ked af det, og familien valgte derfor at gå i biografen som trøst. Biografbiletterne kostede 4 sølvmønter",
+    "consequence1money": "-4",
+    "consequence2title": "Købe nyt tøj og fodboldstøvler til \u003Cname\u003E til 1 guldmønt og 2 sølvmønter",
+    "consequence2text": "Det kostede også 1 guldmønt og 1 sølvmønt for at gå til fodbold og at komme derud med bussen",
+    "consequence2money": "-23",
+    "consequence3title": "Låne noget tøj og nogle fodboldstøvler af en kammerat",
+    "consequence3text": "Det kostede 1 guldmønt og 1 sølvmønt for at gå til fodbold og at komme derud med bussen",
+    "consequence3money": "-11"
+  },
+  "Forsikringen stiger": {
+    "shortname": "Išaugusi draudimo kaina",
+    "contenttype": "event",
+    "month": "june",
+    "eventtext": "Išaugo šeimos automobilio draudimo kaina. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Nepirkti draudimo",
+    "consequence1text": "Netrukus buvo apgadintas šeimos automobilis, o remonto išlaidas šeimai teko padengti patiems. Tai kainavo 3 aukso monetas ir 7 sidabro monetas.",
+    "consequence1money": "-37",
+    "consequence2title": "Pasirinkti gerą draudimo pasiūlymą, kurį gavo paštu",
+    "consequence2text": "Den anden forsikring viste sig desværre at være 1 guldmønt dyrere end den pris, familien havde set i reklamen",
+    "consequence2money": "-10",
+    "consequence3title": "Išsiaiškinti, kur šeima galėtų gauti geriausią draudimą.",
+    "consequence3text": "Geriausias draudimas yra 6 sidabro monetomis brangesnis nei ankstesnis draudimas. Netrukus buvo apgadintas šeimos automobilis, o draudimas atlygino visą žalą",
+    "consequence3money": "-6"
+  },
+  "Fortænder knækket": {
+    "shortname": "Fortænder knækket",
+    "contenttype": "event",
+    "month": "december",
+    "eventtext": "Familien går en tur i skoven. Desværre glider \u003Cname\u003E i sneen og knækker to fortænder. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Få \u003Cname\u003E til tandlægen med det samme, så tænderne kan blive repareret. Det koster 1 guldmønt og 5 sølvmønter for hver tand",
+    "consequence1text": "Der var heldigvis julerabat på 5 sølvmønter for hver tand",
+    "consequence1money": "-20",
+    "consequence2title": "Få fortænderne lavet hos en billigere tandlæge i udlandet, hvor det kun koster 1 guldmønt for hver tand",
+    "consequence2text": "Rejsen til udlandet kostede 5 sølvmønter",
+    "consequence2money": "-25",
+    "consequence3title": "Få en nem og hurtig tandreparation til 5 sølvmønter for hver tand",
+    "consequence3text": "Tandreparationen var dårlig. Den faldt af i løbet af en uge, og det kostede 3 guldmønter at få lavet tænderne ordentligt hos tandlæge",
+    "consequence3money": "-40"
+  },
+  "Frosne vandrør": {
+    "shortname": "Frosne vandrør",
+    "contenttype": "event",
+    "month": "january",
+    "eventtext": "Vandet i et vandrør er frosset til is, fordi det har været uhyggelig koldt udenfor. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Ringe til en håndværker med det samme",
+    "consequence1text": "Håndværkeren fik varmet vandrøret op igen. Det kostede dog 8 sølvmønter",
+    "consequence1money": "-8",
+    "consequence2title": "Lave et bål under vandrøret, så isen inde i vandrøret kan smelte",
+    "consequence2text": "Der gik desværre ild i et gardin til 1 guldmønt og 5 sølvmønter",
+    "consequence2money": "-15",
+    "consequence3title": "Vikle nogle klude om vandrøret for at få det til at tø op",
+    "consequence3text": "Det hjalp ikke. Vandrøret gik i stykker, og der kom vand over det hele. Det kostede 1 guldmønt at få det repareret",
+    "consequence3money": "-10"
+  },
+  "Fugl": {
+    "shortname": "Fugl",
+    "contenttype": "event",
+    "month": "june",
+    "eventtext": "En stor fugl kom ud af kurs og ødelagde 2 vinduesruder. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Sætte 2 træplader op i stedet for. Hver træplade koster 5 sølvmønter",
+    "consequence1text": "Træpladerne var ikke så gode til at holde på varmen. Det kostede familien 2 guldmønter ekstra på varmeregningen",
+    "consequence1money": "-20",
+    "consequence2title": "Købe to nye ruder til 1 guldmønt pr. stk.",
+    "consequence2text": "De nye ruder var så meget bedre end de gamle, at de sparede 6 sølvmønter på varmeregningen",
+    "consequence2money": "-14",
+    "consequence3title": "Fjerne ruderne helt, så fuglene kan flyve igennem",
+    "consequence3text": "Det kostede 3 guldmønter ekstra i varme",
+    "consequence3money": "-30"
+  },
+  "Gæst ødelagde dyrt glas": {
+    "shortname": "Gæst ødelagde dyrt glas",
+    "contenttype": "event",
+    "month": "october",
+    "eventtext": "En af familiens gæster kom til at slå et dyrt glas i stykker, fordi hun faldt over noget legetøj, der lå på gulvet. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Smide gæsten ud",
+    "consequence1text": "Gæsten blev så ked af det, at hun kom til at tabe et glas mere på gulvet. De to nye glas kostede i alt 2 guldmønter og 2 sølvmønter",
+    "consequence1money": "-22",
+    "consequence2title": "Bede gæsten om at købe et nyt glas",
+    "consequence2text": "Gæsten lovede, at hun ville købe et nyt glas til familien",
+    "consequence2money": "0",
+    "consequence3title": "Sige skidt med det, fordi familien heldigvis har masser af glas",
+    "consequence3text": "Familien klarede sig fint uden det smadrede glas",
+    "consequence3money": "0"
+  },
+  "Glemt at slukke for vandhanen": {
+    "shortname": "Glemt at slukke for vandhanen",
+    "contenttype": "event",
+    "month": "november",
+    "eventtext": "En i familien har glemt at slukke for vandhanen på badeværelset. Derfor er der vand på hele badeværelsesgulvet. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Ã…bne døren til badeværelset, så vandet kan løbe ud",
+    "consequence1text": "Vandet løb ud på et dyrt gulvtæppe, der derfor måtte sendes til rensning. Det kostede 4 guldmønter",
+    "consequence1money": "-40",
+    "consequence2title": "Ringe til en blikkenslager",
+    "consequence2text": "Blikkenslageren var forsinket. Der nåede at løbe 1000 liter vand ud til en pris på 1 guldmønt og 5 sølvmønter. Blikkenslageren skulle desuden have 8 sølvmønter for at lukke for vandet",
+    "consequence2money": "-23",
+    "consequence3title": "Slukke for vandhanen",
+    "consequence3text": "For at slukke vandhanen skulle badeværelsesdøren åbnes. Vandet løb ud på trægulvet, og familien måtte leje en tørremaskine til 2 guldmønter, så gulvet ikke blev ødelagt",
+    "consequence3money": "-40"
+  },
+  "Glemt biblioteksbog": {
+    "shortname": "Glemt biblioteksbog",
+    "contenttype": "event",
+    "month": "november",
+    "eventtext": "\u003Cname\u003E har glemt at aflevere en bog til biblioteket. Biblioteksbogen har ligget på værelset i mange måneder! Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Lade som ingenting. Det dukker vel nok op",
+    "consequence1text": "Familien modtog flere rykkere fra biblioteket og en bøde på i alt 1 guldmønt og 2 sølvmønter",
+    "consequence1money": "-12",
+    "consequence2title": "Få afleveret bogen i en fart, selvom det stadig koster et rykkergebyr",
+    "consequence2text": "Rykkergebyret viste sig at koste 5 sølvmønter",
+    "consequence2money": "-5",
+    "consequence3title": "Købe biblioteksbogen af biblioteket og lade \u003Cname\u003E beholde den",
+    "consequence3text": "Bogen kostede 1 guldmønt og 5 sølvmønter",
+    "consequence3money": "-15"
+  },
+  "Glemte nøgler": {
+    "shortname": "Glemte nøgler",
+    "contenttype": "event",
+    "month": "march",
+    "eventtext": "\u003Cname\u003E har glemt sine nøgler. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Slå et vindue i stykker, så \u003Cname\u003E kan kravle ind",
+    "consequence1text": "\u003Cname\u003E fandt det mindste vindue og kom ind, men det kostede 2 guldmønter og 4 sølvmønter at få en ny rude",
+    "consequence1money": "-24",
+    "consequence2title": "Ringe efter låsesmeden, så han kunne komme og låse døren op",
+    "consequence2text": "Det tog lang tid for låsesmeden at få låsen op. Låsesmeden skulle betales 1 guldmønt og 2 sølvmønter i løn og 3 sølvmønter i transport",
+    "consequence2money": "-15",
+    "consequence3title": "Vente til der kommer nogle hjem",
+    "consequence3text": "Der kom nogle hjem kort tid efter, så \u003Cname\u003E kom hurtigt ind",
+    "consequence3money": "0"
+  },
+  "Havemøbler frem": {
+    "shortname": "Havemøbler frem",
+    "contenttype": "event",
+    "month": "april",
+    "eventtext": "Havemøblerne skal stilles frem. Familien opdager, at nogle af brædderne er rådnet. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Smide alle havemøblerne ud og købe nogle nye, der er lige så gode",
+    "consequence1text": "De nye havemøbler kostede 2 guldmønter og 2 sølvmønter",
+    "consequence1money": "-22",
+    "consequence2title": "Købe nogle billigere havemøbler, der dog ikke er så stabile",
+    "consequence2text": "De nye, billige havemøbler kostede 1 guldmønt og 1 sølvmønt",
+    "consequence2money": "-11",
+    "consequence3title": "Købe nye brædder og selv reparere havemøblerne",
+    "consequence3text": "De nye brædder kostede 6 sølvmønter, og søm og skruer kostede 3 sølvmønter",
+    "consequence3money": "-9"
+  },
+  "Kabel tv": {
+    "shortname": "Kabelinė televizija",
+    "contenttype": "event",
+    "month": "march",
+    "eventtext": "Šeima norėtų turėti kabelinę televiziją, kad galėtų žiūrėti daugybę skirtingų TV kanalų. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Pirkti mažiausią kabelinės televizijos paketą, kuriame nėra daug kanalų. Kita vertus, jis kainuoja tik 5 sidabro monetas",
+    "consequence1text": "Šeima džiaugėsi naujais TV kanalais.",
+    "consequence1money": "-5",
+    "consequence2title": "Pirkti didžiausią kabelinės televizijos paketą, kuriame yra daugiausia kanalų. Jo kaina – 2 aukso monetos",
+    "consequence2text": "Familien blev glade for flere af kanalerne, men der var også rigtig mange af kanalerne, som de aldrig så",
+    "consequence2money": "-20",
+    "consequence3title": "Užsakyti vidutinio dydžio kabelinės televizijos paketą su televizijos kanalais visai šeimai už 1 aukso monetą ir 3 sidabro monetas",
+    "consequence3text": "Familien blev glade for de nye kanaler",
+    "consequence3money": "-13"
+  },
+  "Kæledyr har fået allergi": {
+    "shortname": "Kæledyr har fået allergi",
+    "contenttype": "event",
+    "month": "june",
+    "eventtext": "Familiens kæledyr har fået allergi og skal derfor have noget særligt dyrt mad. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Få aflivet kæledyret hos dyrlægen, selvom det er trist",
+    "consequence1text": "Dyrlægen gav familien en regning på 2 guldmønter og 3 sølvmønter",
+    "consequence1money": "-23",
+    "consequence2title": "Købe den dyre mad henne i dyreforretningen. Maden koster 1 guldmønt og 2 sølvmønter",
+    "consequence2text": "Det hjalp familiens kæledyr! Dyret blev hurtigt rask igen",
+    "consequence2money": "-12",
+    "consequence3title": "Sørge for at kæledyret ikke får det at spise, som den ikke kan tåle",
+    "consequence3text": "Det viste sig, at maden blev billigere på den måde. Familien sparede derfor 1 guldmønt og 7 sølvmønter",
+    "consequence3money": "17"
+  },
+  "Klaverspil": {
+    "shortname": "Klaverspil",
+    "contenttype": "event",
+    "month": "october",
+    "eventtext": "\u003Cname\u003E vil gerne gå i musikskole og lære at spille klaver. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Leje et klaver til 5 sølvmønter",
+    "consequence1text": "\u003Cname\u003E skulle leje klaveret i mindst 6 måneder, men blev rigtig god til at spille på det",
+    "consequence1money": "-30",
+    "consequence2title": "Købe et klaver til 2 guldmønter",
+    "consequence2text": "\u003Cname\u003E blev rigtig god til at spille på klaveret",
+    "consequence2money": "-20",
+    "consequence3title": "Opfordre \u003Cname\u003E til at gå til blokfløjte i stedet, fordi blokfløjten kun koster 1 guldmønt",
+    "consequence3text": "\u003Cname\u003E blev god til at spille blokfløjte, men ville stadig gerne gå til klaver. Så familien endte med at skulle betale for begge dele",
+    "consequence3money": "-30"
+  },
+  "Knuste briller": {
+    "shortname": "Knuste briller",
+    "contenttype": "event",
+    "month": "january",
+    "eventtext": "\u003Cname\u003E paslysta ant vonios grindų ir sudaužo akinius. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "\u003Cname\u003E nuo šiol turės išsiversti be akinių",
+    "consequence1text": "\u003Cname\u003E kom til at slå ting i stykker for 1 guldmønt, fordi det var svært at se ordentligt Â ",
+    "consequence1money": "-10",
+    "consequence2title": "Pakeisti sudaužytus akinių lęšius. Kiekvienas lęšis kainavo po 7 sidabro monetas.",
+    "consequence2text": "Pasirodo, optiko darbas taip pat kainavo 3 sidabro monetas.",
+    "consequence2money": "-17",
+    "consequence3title": "Pirkti naujus akinius, kurių rėmeliai kainuoja 1 aukso monetą, ir po 5 sidabro monetas už kiekvieną lęšį.",
+    "consequence3text": "\u003Cname\u003E så meget bedre med de nye briller",
+    "consequence3money": "-20"
+  },
+  "Konkurrence": {
+    "shortname": "Konkurrence",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "\u003Cname\u003E har vundet 2 guldmønter i en konkurrence. Alle i familien giver \u003Cname\u003E et stort knus og siger tillykke!",
+    "person": "all",
+    "facteventmoney": "20",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "Lånt cykel ødelagt": {
+    "shortname": "Sulaužytas pasiskolintas dviratis",
+    "contenttype": "event",
+    "month": "may",
+    "eventtext": "\u003Cname\u003E pasiskolino draugo dviratį. Tačiau dviratis sulūžo, nes jį pervažiavo mašina. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Nugabenti dviratį į remonto dirbtuvę. Dviračio remontas kainuoja 1 aukso ir 7 siabro monetas",
+    "consequence1text": "Cyklen blev så god som ny",
+    "consequence1money": "-17",
+    "consequence2title": "Priversti automobilio vairuotoją sumokėti už dviračio remontą",
+    "consequence2text": "Deja, visi pamiršo užsirašyti automobilio numerį. Taigi jie negalėjo rasti vairuotojo ir patys turėjo sumokėti už dviračio remontą.",
+    "consequence2money": "-17",
+    "consequence3title": "Pirkti draugui naują dviratį",
+    "consequence3text": "Familien havde heldigvis en forsikring, der betalte for den nye cykel",
+    "consequence3money": "0"
+  },
+  "Lopper": {
+    "shortname": "Lopper",
+    "contenttype": "event",
+    "month": "may",
+    "eventtext": "Familiens kæledyr har fået lopper. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Forsøge at fange lopperne",
+    "consequence1text": "Det var helt umuligt. I forsøget faldt \u003Cname\u003E over en stor potteplante, så den gik i stykker. Den kostede 1 guldmønt og 5 sølvmønter",
+    "consequence1money": "-15",
+    "consequence2title": "Gå til dyrlægen for at få hjælp, selvom det koster 2 guldmønter og 3 sølvmønter",
+    "consequence2text": "Dyrlægen fik fjernet alle lopperne",
+    "consequence2money": "-23",
+    "consequence3title": "Købe et loppemiddel til 1 guldmønt og 4 sølvmønter",
+    "consequence3text": "Loppemidlet viste sig at være på tilbud. Så familien sparede 6 sølvmønter",
+    "consequence3money": "-8"
+  },
+  "Mistet bankkort": {
+    "shortname": "Mistet bankkort",
+    "contenttype": "event",
+    "month": "march",
+    "eventtext": "Familiens hævekort er blevet væk, fordi jakken, hvor det lå i, er forsvundet. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Lade som ingenting. Det dukker vel nok op",
+    "consequence1text": "Familien opdagede, at hævekortet ikke bare var forsvundet. Det var blevet stjålet. Tyven havde brugt kortet, og det kom til at koste familien 1 guldmønt og 5 sølvmønter",
+    "consequence1money": "-15",
+    "consequence2title": "Bede alle i familien om at lede i hele huset, indtil hævekortet er fundet",
+    "consequence2text": "\u003Cname\u003E fandt jakken med hævekortet i",
+    "consequence2money": "0",
+    "consequence3title": "Ringe til banken, og bede dem lukke hævekortet, så ingen kan bruge det, hvis det nu er blevet stjålet",
+    "consequence3text": "Hævekortet var blevet stjålet. Men fordi der hurtigt blev ringet til banken, havde tyven ikke nået at bruge det",
+    "consequence3money": "0"
+  },
+  "Mus på loftet": {
+    "shortname": "Mus på loftet",
+    "contenttype": "event",
+    "month": "august",
+    "eventtext": "Familien har i lang tid haft besøg af en mus, der har larmet og gnavet i familiens ting på loftet. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Håbe at den løber over til naboen",
+    "consequence1text": "Det gjorde den faktisk. Så der var familien heldige",
+    "consequence1money": "0",
+    "consequence2title": "Købe en musefælde til 1 guldmønt",
+    "consequence2text": "Musen havnede hurtigt i fælden, fordi den blev lokket af den gode ost, familien havde brugt som lokkemad",
+    "consequence2money": "-10",
+    "consequence3title": "Lade som om det ikke betyder noget",
+    "consequence3text": "Musen ødelagde tagets isolering, der derfor måtte skiftes for 2 guldmønter",
+    "consequence3money": "-20"
+  },
+  "Ny computer": {
+    "shortname": "Ny computer",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "Familiens computer er gået i stykker, og de skal købe en ny. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Købe en ny computer med det samme, så familien ikke skal undvære en computer for længe. Den koster dog 3 guldmønter",
+    "consequence1text": "Computeren var dyr, men til gengæld sparede den strøm. Derfor faldt el-regningen med 1 guldmønt",
+    "consequence1money": "-20",
+    "consequence2title": "Leje en ny computer. Det koster 4 sølvmønter hver måned i 6 måneder",
+    "consequence2text": "Den nye computer sparede strøm. Derfor faldt el-regningen med 1 guldmønt",
+    "consequence2money": "-14",
+    "consequence3title": "Give familien tid til at tjekke priser i forskellige forretninger. Familien er uden computer i 14 dage, men finder en billig computer til 2 guldmønter",
+    "consequence3text": "Den nye computer sparede strøm. Derfor faldt el-regningen med 1 guldmønt",
+    "consequence3money": "-10"
+  },
+  "Pære i loftlampe sprunget": {
+    "shortname": "Pære i loftlampe sprunget",
+    "contenttype": "event",
+    "month": "june",
+    "eventtext": "Pæren i en loftlampe er sprunget, så der er helt mørkt. \u003Cname\u003E falder ned ad trappen og slår sig. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Give \u003Cname\u003E plaster på. Et plaster koster 1 sølvmønt",
+    "consequence1text": "Plasteret skulle skiftes hver dag i en uge",
+    "consequence1money": "-7",
+    "consequence2title": "Sætte ny pære i lampen til 2 sølvmønter",
+    "consequence2text": "Det viste sig, at der skulle to pærer i lampen",
+    "consequence2money": "-4",
+    "consequence3title": "Trøste \u003Cname\u003E",
+    "consequence3text": "\u003Cname\u003E blev hurtigt glad igen",
+    "consequence3money": "0"
+  },
+  "Påskeæg": {
+    "shortname": "Velykų kiaušiniai",
+    "contenttype": "event",
+    "month": "april",
+    "eventtext": "\u003Cname\u003E kiekvienam šeimos nariui nupirko po Velykų kiaušinį. Deja, Velykų kiaušiniai nukrito ant žemės ir sudužo, nes \u003Cname\u003E išsigando greitai pro šalį važiuojančio dviratininko. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Pirkti naujus Velykų kiaušinius, bet tik vaikams. Kiaušiniai kainuoja 4 sidabro monetas",
+    "consequence1text": "Børnene blev glade og nød deres store påskeæg",
+    "consequence1money": "-4",
+    "consequence2title": "Šeimos nariams duoti sudaužytus Velykų kiaušinius ir leisti, kad \u003Cname\u003E pridėtų 2 sidabro monetas prie vaikų kišenpinigių",
+    "consequence2text": "Vaikai pasakė, kad \u003Cname\u003E pridėtų prie kišenpinigių 4 sidabro monetas vietoj 2.",
+    "consequence2money": "-4",
+    "consequence3title": "Išmesti sudužusius Velykų kiaušinius ir kiekvienam šeimos nariui nupirkti po naują Velykų kiaušinį. Nauji kiaušiniai kainavo 6 sidabro monetas",
+    "consequence3text": "Hele familien blev glade for de nye, lækre påskeæg",
+    "consequence3money": "-6"
+  },
+  "Printer væltet": {
+    "shortname": "Printer væltet",
+    "contenttype": "event",
+    "month": "march",
+    "eventtext": "Familiens skrivebord væltede, så printeren faldt ned på gulvet og blev ødelagt. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Holde op med at printe derhjemme",
+    "consequence1text": "Fordi familien ikke selv kunne printe mere, måtte de gå på biblioteket, hver gang de skulle printe. Det kostede 1 sølvmønt pr. side. Hver måned printede familien 9 sider",
+    "consequence1money": "-9",
+    "consequence2title": "Få printeren sendt til reparation i en computerforretning. Det koster 4 sølvmønter for en reservedel og 2 sølvmønter til forretningen",
+    "consequence2text": "Desværre tog forretningen også 2 sølvmønter for at sende printeren hjem til familien, efter de havde repareret den",
+    "consequence2money": "-8",
+    "consequence3title": "Købe en brugt printer af naboen. Naboen skulle have 2 guldmønter for printeren, men endte alligevel med at give familien 4 sølvmønter i rabat",
+    "consequence3text": "Den brugte printer fra naboen kunne mange flere ting end familiens gamle printer",
+    "consequence3money": "-16"
+  },
+  "Ridning": {
+    "shortname": "Ridning",
+    "contenttype": "event",
+    "month": "may",
+    "eventtext": "\u003Cname\u003E vil gerne gå til ridning, men har ikke noget rideudstyr. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Bede \u003Cname\u003E om at spare sammen til rideudstyret",
+    "consequence1text": "\u003Cname\u003E sparede 2 guldmønter op",
+    "consequence1money": "20",
+    "consequence2title": "Overtale \u003Cname\u003E til at vælge en anden sport, der ikke er så dyr",
+    "consequence2text": "\u003Cname\u003E valgte i stedet at gå til badminton. Det kom dog til at koste 8 sølvmønter for badmintonsko og 1 guldmønt og 2 sølvmønter for at spille i en badmintonklub",
+    "consequence2money": "-20",
+    "consequence3title": "Købe alt det nødvendige udstyr til ridning med det samme",
+    "consequence3text": "Ridehjelmen, ridestøvlerne og handskerne kostede i alt 2 guldmønter",
+    "consequence3money": "-20"
+  },
+  "Spejl gået i stykker": {
+    "shortname": "Spejl gået i stykker",
+    "contenttype": "event",
+    "month": "december",
+    "eventtext": "Familiens store spejl faldt ned på gulvet og gik i stykker, fordi der blev spillet bold i entreen. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Holde op med at kigge i spejlet",
+    "consequence1text": "Det betød, at \u003Cname\u003E gik på arbejde med uglet hår og tandpasta på kinden. \u003Cname\u003E blev derfor sendt hjem igen i en taxa. Det kostede 8 sølvmønter",
+    "consequence1money": "-8",
+    "consequence2title": "Prøve at lime spejlet sammen igen med en stærk lim til 4 sølvmønter",
+    "consequence2text": "Det holdt ikke længe. Spejlet måtte smides ud, og familien købte et nyt til 1 guldmønt og 2 sølvmønter",
+    "consequence2money": "-16",
+    "consequence3title": "Købe et nyt spejl til 2 guldmønter og en snor til 2 sølvmønter, som spejlet kan hænge i",
+    "consequence3text": "Det nye spejl holdt i mange år",
+    "consequence3money": "-26"
+  },
+  "Stormskade": {
+    "shortname": "Stormskade",
+    "contenttype": "event",
+    "month": "october",
+    "eventtext": "Under en storm blæser familiens hoveddør op. En stor rude i døren går desværre i stykker. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Købe en helt ny dør til 3 guldmønter",
+    "consequence1text": "Den nye dør viste sig at være bedre end den gamle. Den var så god til at holde på varmen, at familien sparede 1 guldmønt på varmeregningen",
+    "consequence1money": "-20",
+    "consequence2title": "Sætte en plade på i stedet for en ny rude. Pladen koster 3 sølvmønter, og sømmene koster 1 sølvmønt",
+    "consequence2text": "Pladen holdt desværre ikke. Det kostede 1 guldmønt og 5 sølvmønter at få døren repareret",
+    "consequence2money": "-19",
+    "consequence3title": "Købe en ny rude. Den koster 5 sølvmønter, og glarmesteren skal have 1 guldmønt for at sætte ruden i",
+    "consequence3text": "Døren blev repareret, og familien var glade",
+    "consequence3money": "-15"
+  },
+  "Strømafbrydelse": {
+    "shortname": "Dingusi elektra",
+    "contenttype": "event",
+    "month": "august",
+    "eventtext": "Visuose šeimos gatvės namuose dingo elektra ir visas šaldiklyje esantis maistas atitirpo. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Pakviesti krūvą svečių, kurie suvalgytų visą atitirpusį maistą",
+    "consequence1text": "Šeima turėjo pirkti visiems svečiams gėrimus, tai kainavo 1 aukso ir 6 sidabro monetas. Taip pat šeima turėjo vėl pirkti maisto ir padėti į šaldiklį. Tai kainavo 1 aukso ir 2 sidabro monetas.",
+    "consequence1money": "-28",
+    "consequence2title": "Vėl užšaldyti atitirpusį maistą",
+    "consequence2text": "Der var nogle få ting, der godt kunne fryses ned igen. Men det meste af maden blev dårlig og måtte smides væk. Den ødelagte mad kostede 1 guldmønt",
+    "consequence2money": "-10",
+    "consequence3title": "Išmesti visą maistą ir pirkti naujo",
+    "consequence3text": "Familien måtte købe ny mad til fryseren. Det blev dyrt. De kom af med 2 guldmønter og 1 sølvmønt",
+    "consequence3money": "-21"
+  },
+  "Tabt mobil": {
+    "shortname": "Pamestas mobilusis telefonas",
+    "contenttype": "event",
+    "month": "january",
+    "eventtext": "\u003Cname\u003E buvo vonioje, kai iš kišenės iškrito mobilusis telefonas, įkrito į klozetą ir nustojo veikti. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Ištraukti telefoną iš klozeto ir nusausinti jį rankšluosčiu",
+    "consequence1text": "Mobilen kunne ikke tåle vand, og det hjalp ikke at tørre den. Mobilen var derfor ødelagt, og \u003Cname\u003E måtte købe en ny til 2 guldmønter",
+    "consequence1money": "-20",
+    "consequence2title": "Paprašyti, kad \u003Cname\u003E taupytų naujam telefonui",
+    "consequence2text": "Kadangi \u003Cname\u003E taupė, teko dažnai naudotis kompiuteriu – kitaip nebegalėjo siųsti trumpųjų žinučių. Kadangi kompiuteris buvo nuolat užimtas, kitiems teko dažniau naudotis telefonu. Sąskaita už pokalbius telefonu buvo 8 sidabro monetos.",
+    "consequence2money": "-8",
+    "consequence3title": "Už 2 aukso monetas pirkti naują mobilųjį telefoną, kuriuo naudotųsi \u003Cname\u003E",
+    "consequence3text": "\u003Cname\u003E fik en ny telefon, som \u003Cname\u003E blev rigtig glad for",
+    "consequence3money": "-20"
+  },
+  "Tapetet ødelagt": {
+    "shortname": "Tapetet ødelagt",
+    "contenttype": "event",
+    "month": "february",
+    "eventtext": "Sneen på taget smelter, og der løber vand ind i huset, så tapetet på væggen falder af. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Lime tapetet op igen med en lim til 2 sølvmønter",
+    "consequence1text": "Det holdt heldigvis rigtig godt og længe",
+    "consequence1money": "-2",
+    "consequence2title": "Tage det ødelagte tapet ned og håbe på, at man stadigvæk kan købe mere af det samme tapet igen",
+    "consequence2text": "Man kunne ikke få tapet i samme mønster, som det der var i stuen. Hele stuen skulle derfor have nyt tapet. Det krævede 8 ruller tapet til 3 sølvmønter pr. rulle",
+    "consequence2money": "-24",
+    "consequence3title": "Hænge et tæppe hen over stedet, hvor tapetet er faldet af",
+    "consequence3text": "Tæppet blev ødelagt af fugt. Det kostede 8 sølvmønter. Familien måtte leje en tørremaskine i en hel uge til 1 guldmønt og 3 sølvmønter. De købte derefter en rulle tapet til 3 sølvmønter og satte det selv op",
+    "consequence3money": "-24"
+  },
+  "Toilet itu": {
+    "shortname": "Suskilęs klozetas",
+    "contenttype": "event",
+    "month": "february",
+    "eventtext": "Šeimos name suskilo klozetas ir juo negalima naudotis. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Iškasti kieme duobę",
+    "consequence1text": "Nė vienas šeimos narys nenorėjo kasti, todėl teko pirkti naują klozetą, kuris kainavo 2 aukso monetas.",
+    "consequence1money": "-20",
+    "consequence2title": "Suklijuoti klozetą klijais, kurie kainuoja 6 sidabro monetas",
+    "consequence2text": "Det viste sig desværre, at limen ikke var stærk nok. Pengene var derfor spildt, og familien måtte købe et nyt toilet til 2 guldmønter.",
+    "consequence2money": "-26",
+    "consequence3title": "Pirkti naują prašmatnų klozetą už 2 aukso monetas",
+    "consequence3text": "Det nye toilet var bedre end det gamle. Det brugte nemlig mindre vand. Derfor sparede familien 4 sølvmønter på vandregningen",
+    "consequence3money": "-16"
+  },
+  "Uden buskort": {
+    "shortname": "Uden buskort",
+    "contenttype": "event",
+    "month": "december",
+    "eventtext": "\u003Cname\u003E vil tage bussen hjem, men har glemt sit buskort. Hvad synes du, \u003Cname\u003E skal gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Tage chancen og prøve at komme med bussen alligevel",
+    "consequence1text": "Det gik ikke så godt. Buskontrolløren kom forbi og gav en bøde på 2 guldmønter",
+    "consequence1money": "-20",
+    "consequence2title": "Gå hjem, selvom der er lidt langt",
+    "consequence2text": "Det tog over en time, men gåturen var gratis",
+    "consequence2money": "0",
+    "consequence3title": "Købe en billet til bussen",
+    "consequence3text": "Billetten kostede 2 sølvmønter",
+    "consequence3money": "-2"
+  },
+  "Uden komfur": {
+    "shortname": "Sugedusi viryklė",
+    "contenttype": "event",
+    "month": "july",
+    "eventtext": "Šeimos viryklė sugedo. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Gaminti maistą užkūrus laužą kieme",
+    "consequence1text": "Det var forbudt at tænde bål, der hvor familien boede, så familien fik en bøde på 2 guldmønter",
+    "consequence1money": "-20",
+    "consequence2title": "Ilgai valgyti tik šaltą maistą",
+    "consequence2text": "Paaiškėjo, kad šis planas brangiai kainuoja. Šaltas maistas kainavo 1 aukso ir 5 sidabro monetas.",
+    "consequence2money": "-15",
+    "consequence3title": "Pirkti naują viryklę",
+    "consequence3text": "Det nye komfur kostede 2 guldmønter og 6 sølvmønter, men familien blev meget glad for det",
+    "consequence3money": "-26"
+  },
+  "Uden varme": {
+    "shortname": "Uden varme",
+    "contenttype": "event",
+    "month": "february",
+    "eventtext": "Radiatorerne virker pludselig ikke mere. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Hele familien må tage varmt tøj på. Der kan ikke gøres noget lige nu",
+    "consequence1text": "Det blev en lang vinter, hvor alle gik med meget tøj på. Familien sparede dog 3 guldmønter på varmeregningen",
+    "consequence1money": "30",
+    "consequence2title": "Prøve selv at reparere skaden",
+    "consequence2text": "Det kunne godt lade sig gøre, men det krævede dog, at familien skulle købe en reservedel til 6 sølvmønter",
+    "consequence2money": "-6",
+    "consequence3title": "Ringe til en håndværker",
+    "consequence3text": "Håndværkeren kom og ordnede familiens radiatorer. Håndværkeren gav dog familien en regning på 1 guldmønt og 7 sølvmønter",
+    "consequence3money": "-17"
+  },
+  "Våd computer": {
+    "shortname": "Sušlapęs kompiuteris",
+    "contenttype": "event",
+    "month": "september",
+    "eventtext": "\u003Cname\u003E pamiršo uždaryti langą, todėl ant šeimos kompiuterio visą naktį lijo lietus. Ką daryti?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Uždėti kompiuterį ant radiatoriaus, kad išdžiūtų",
+    "consequence1text": "Deja, tai nepadėjo. Kompiuterį teko vežti taisyti. Tai kainavo 2 aukso monetas.",
+    "consequence1money": "-20",
+    "consequence2title": "Uždaryti langą ir prieš naudojant kompiuterį palaukti, kol jis visiškai išdžius",
+    "consequence2text": "Det tog lang tid. Derfor lejede familien en computer i ventetiden. Det kostede 1 guldmønt. Da den gamle computer var tør, duede den ikke og måtte alligevel sendes til reparation. Det kostede 2 guldmønter",
+    "consequence2money": "-30",
+    "consequence3title": "Pirkti naują kompiuterį už 3 aukso monetas",
+    "consequence3text": "Den nye computer var rigtig god og brugte mindre strøm end den gamle. Familien sparede derfor 6 sølvmønter i strøm",
+    "consequence3money": "-24"
+  },
+  "Væltet på cykel": {
+    "shortname": "Væltet på cykel",
+    "contenttype": "event",
+    "month": "april",
+    "eventtext": "\u003Cname\u003E væltede på sin cykel og slog sit knæ. Der kom et stort hul i bukserne. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Få bukserne lappet og plaster på knæet",
+    "consequence1text": "Familien fandt en gratis lap og et plaster til 1 sølvmønt",
+    "consequence1money": "-1",
+    "consequence2title": "Købe et par nye bukser magen til dem, der gik i stykker. De kostede 1 guldmønt og 6 sølvmønter",
+    "consequence2text": "Bukserne var desværre steget i pris. Derfor kostede de nu 2 guldmønter og 2 sølvmønter",
+    "consequence2money": "-22",
+    "consequence3title": "Smide bukserne væk og finde et andet par",
+    "consequence3text": "Familien var heldige at finde et par nye bukser på udsalg til 1 guldmønt og 3 sølvmønter",
+    "consequence3money": "-13"
+  },
+  "Vaskemaskine": {
+    "shortname": "Vaskemaskine",
+    "contenttype": "event",
+    "month": "august",
+    "eventtext": "Familiens vaskemaskine gik pludselig i stykker. Hvad vil du gøre?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Købe en brugt vaskemaskine til 2 guldmønter og 1 sølvmønt",
+    "consequence1text": "Den brugte vaskemaskine viste sig at være rigtig god og holde længe",
+    "consequence1money": "-21",
+    "consequence2title": "Købe en ny vaskemaskine til 3 guldmønter",
+    "consequence2text": "Den nye vaskemaskine viste sig at være billig i strøm og bruge mindre vand. Regningen på strøm og vand faldt derfor med 5 sølvmønter",
+    "consequence2money": "-25",
+    "consequence3title": "Købe en meget dyr vaskemaskine til 4 guldmønter, der er rigtig god for miljøet",
+    "consequence3text": "Med den nye vaskemaskine sparede familien hele 2 guldmønter i strøm og vand",
+    "consequence3money": "-20"
+  },
+  "Vundet i Lotto": {
+    "shortname": "Vundet i Lotto",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "Der var en stor gevinst på 3 guldmønter på den Lotto-kupon, familien havde købt",
+    "person": "all",
+    "facteventmoney": "30",
+    "facteventsatisfaction": "0",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  }
+}
