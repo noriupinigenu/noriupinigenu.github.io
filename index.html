@@ -115,6 +115,12 @@
     </div>
     <div id="container">
         <div id="frontpage">
+            <div id="maintenance">
+                <div id="maintenance-close" onclick="closeMaintenance();">Uždaryti X</div>
+                <b>Pinigėnai atkurti!</b><br>
+                Vartotojų profiliai serveryje neišsaugomi.<br><br>
+                Pastaba: Pinigėnai visada prisimins paskutinį kartą žaistą profilį, taigi, jei visada žaisite tame pačiame įrenginyje ir nesidalinsite žaidimu su kitais, Pinigėnai prisimins jus.<br>
+            </div>
             <div id="forside-content">
                 <img class="forside-bg" src="pinigenai/img/forside.jpg" />
                 <div class="play-btn" onclick="gotoIntro();"><img src="pinigenai/img/lt/gotogame.png"></div>
@@ -148,6 +154,10 @@
 
             frontpageResize();
         });
+
+        function closeMaintenance() {
+            $("#maintenance").hide();
+        }
 
         function frontpageResize() {
             if (window.innerHeight < 600 && window.innerWidth < 600) {
@@ -201,15 +211,13 @@
 
         function gotoIntro() {
             $(window).off("resize", frontpageResize);
-
+            acceptCookies();
             startIntro();
         }
-
     </script>
     </section>
 
     <script type='text/javascript' src='includes/js/wp-embed.min.js?ver=4.9.9'></script>
-
     <script src="pinigenai/js/modernizr-3.6.0.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script>window.jQuery || document.write('<script src="js/jquery-3.3.1.min.js"><\/script>')</script>

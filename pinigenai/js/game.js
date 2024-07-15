@@ -6,6 +6,7 @@ var sideBar;
 var genderSelectContainer;
 var cleanUpArray = new Array();
 var cleanUpRemoveArray = new Array();
+var eegg;
 
 var labelStyle = new PIXI.TextStyle({
     fontFamily: "Arial",
@@ -568,6 +569,12 @@ function loadUniverseResources(data) {
     PIXI.Loader.shared.on('progress', preloadProgress);
 
     PIXI.Loader.shared
+        .add('g_easteregg/iki.png')
+        .add('g_easteregg/glogo.png')
+        .add('g_easteregg/glogo1.png')
+        .add('g_easteregg/glogo2.png')
+        .add('g_easteregg/glogo3.png')
+        .add('g_easteregg/glogo-k.png')
         .add('images/mayor_mouth.json')
         .add("images/karens/goldstack.json")
         .add("images/karens/silverstack.json")
@@ -2238,6 +2245,7 @@ function drawUniverse() {
 
         universeContainer.addChild(postOffice);
 
+
         //farm
         var farm = createMC("farm instance 100", 22, 130, 515);
         farm.gotoAndStop(0);
@@ -2254,6 +2262,15 @@ function drawUniverse() {
             farm.on("pointerup", showFarmGame);
         }
         universeContainer.addChild(farm);
+
+
+        if(window.location.hash == '#g'){
+            eegg = createSprite("g_easteregg/glogo1.png", 330, 640);
+            eegg.width = 140;
+            eegg.height = 50;
+            eegg.interactive = false;
+            universeContainer.addChild(eegg);
+        }
 
 
         //karens butik
@@ -2273,6 +2290,14 @@ function drawUniverse() {
         }
         universeContainer.addChild(karens);
 
+        if(window.location.hash == '#g'){
+            eegg = createSprite("g_easteregg/iki.png", 435, 255);
+            eegg.width = 60;
+            eegg.height = 60;
+            eegg.interactive = false;
+            universeContainer.addChild(eegg);
+        }
+
 
         //timemachine
         var timeMachine = createMC("timemachine00", 21, 785, 220);
@@ -2290,6 +2315,14 @@ function drawUniverse() {
             timeMachine.on("pointerup", showTimeMachine);
         }
         universeContainer.addChild(timeMachine);
+
+        if(window.location.hash == '#g'){
+            eegg = createSprite("g_easteregg/glogo2.png", 785, 340);
+            eegg.width = 105;
+            eegg.height = 30;
+            eegg.interactive = false;
+            universeContainer.addChild(eegg);
+        }
 
 
         //house
@@ -2309,6 +2342,14 @@ function drawUniverse() {
             house.on("pointerup", showRoom);
         }
         universeContainer.addChild(house);
+
+        if(window.location.hash == '#g'){
+            eegg = createSprite("g_easteregg/glogo.png", 280, 420);
+            eegg.width = 60;
+            eegg.height = 60;
+            eegg.interactive = false;
+            universeContainer.addChild(eegg);
+        }
 
 
         var postOffice = createMC("postoffice00", 18, 584, 423);
@@ -2330,6 +2371,13 @@ function drawUniverse() {
 
         universeContainer.addChild(postOffice);
 
+        if(window.location.hash == '#g'){
+            eegg = createSprite("g_easteregg/glogo3.png", 600, 563);
+            eegg.width = 167;
+            eegg.height = 47;
+            eegg.interactive = false;
+            universeContainer.addChild(eegg);
+        }
 
         //port
         var portGame = createSprite("images/universe/port.png", 569, 709);
@@ -11439,7 +11487,7 @@ function showWizard() {
     } else {
         $.ajax({
             type: 'GET',
-            url: 'gameadmin/getcontent/wizard.json',
+            url: 'gameadmin/getcontent/' + (window.location.hash == '#g' ? 'g_eegg_wizard.json' : 'wizard.json'),
             contentType: 'application/json; charset=utf-8',
             dataType: 'json',
         }).done(loadWizardResources);
@@ -12593,6 +12641,14 @@ function showMonopolyPopup() {
     gamePopup.addChild(gameConfig.popupBG);
     gameConfig.popupBG.interactive = true;
 
+    if(window.location.hash == '#g'){
+        eegg = createSprite("g_easteregg/glogo-k.png", 290, 160);
+        eegg.width = 88;
+        eegg.height = 100;
+        eegg.interactive = false;
+        gamePopup.addChild(eegg);
+    }
+
     var cancelBtn = createMC("exitbtn00", 2, 445, 20);
     cancelBtn.gotoAndStop(1);
     //make interactive on hover
@@ -13391,6 +13447,18 @@ function monoSelectHouse() {
         gameConfig.houseButtons = new Array();
         gameConfig.petButtons = new Array();
 
+        var smallText = createSmallTextBold(monoData.monopoly_startup_items_label_transport.content, 461, 20);
+        gameContainer.addChild(smallText);
+        cleanUpArray.push(smallText);
+
+        smallText = createSmallTextBold(monoData.monopoly_startup_items_label_place.content, 150, 183);
+        gameContainer.addChild(smallText);
+        cleanUpArray.push(smallText);
+
+        smallText = createSmallTextBold(monoData.monopoly_startup_items_label_pet.content, 424, 447);
+        gameContainer.addChild(smallText);
+        cleanUpArray.push(smallText);
+
         //cars
         var startupItem;
         var startupItemBG;
@@ -14030,7 +14098,7 @@ function setupMonoBG() {
     }
 
     //var gameHouse = PIXI.Sprite.from('images/monopoly/monoGameHouse00' + houseNumber + '.png');
-    var gameHouse = PIXI.Sprite.from('images/monopoly/monoGameHouse0025.png');
+    var gameHouse = PIXI.Sprite.from('images/monopoly/monoGameHouseOnly.png');
     gameHouse.x = 220;
     gameHouse.y = 130;
     gameConfig.monoBG.addChild(gameHouse);
@@ -14941,7 +15009,7 @@ function showNewYearsParty() {
         btnGraphics = new PIXI.Graphics();
         btnGraphics.beginFill(0x00152b);
         btnGraphics.drawRect(0, 0, 76, 30);
-        btnGraphics.alpha = 0.3;
+        btnGraphics.alpha = 0.1;
         cleanUpArray.push(btnGraphics);
         btn.addChild(btnGraphics);
 
@@ -14970,7 +15038,7 @@ function showNewYearsParty() {
         btn.addChild(gameConfig.silverSaveLabel);
         cleanUpArray.push(gameConfig.silverSaveLabel);
 
-        btn.hitArea = new PIXI.Rectangle(0, 0, 76, 30);
+        btn.hitArea = new PIXI.Rectangle(0, -60, 76, 90); //0, 0, 76, 30
         btn.interactive = true;
         btn.buttonMode = true;
         btn.on("pointerup", buyNYItem);
