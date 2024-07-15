@@ -569,12 +569,12 @@ function loadUniverseResources(data) {
     PIXI.Loader.shared.on('progress', preloadProgress);
 
     PIXI.Loader.shared
-        .add('g_easteregg/iki.png')
-        .add('g_easteregg/glogo.png')
-        .add('g_easteregg/glogo1.png')
-        .add('g_easteregg/glogo2.png')
-        .add('g_easteregg/glogo3.png')
-        .add('g_easteregg/glogo-k.png')
+        .add('images/g_easteregg/iki.png')
+        .add('images/g_easteregg/glogo.png')
+        .add('images/g_easteregg/glogo1.png')
+        .add('images/g_easteregg/glogo2.png')
+        .add('images/g_easteregg/glogo3.png')
+        .add('images/g_easteregg/glogo-k.png')
         .add('images/mayor_mouth.json')
         .add("images/karens/goldstack.json")
         .add("images/karens/silverstack.json")
@@ -2265,7 +2265,7 @@ function drawUniverse() {
 
 
         if(window.location.hash == '#g'){
-            eegg = createSprite("g_easteregg/glogo1.png", 330, 640);
+            eegg = createSprite("images/g_easteregg/glogo1.png", 330, 640);
             eegg.width = 140;
             eegg.height = 50;
             eegg.interactive = false;
@@ -2291,7 +2291,7 @@ function drawUniverse() {
         universeContainer.addChild(karens);
 
         if(window.location.hash == '#g'){
-            eegg = createSprite("g_easteregg/iki.png", 435, 255);
+            eegg = createSprite("images/g_easteregg/iki.png", 435, 255);
             eegg.width = 60;
             eegg.height = 60;
             eegg.interactive = false;
@@ -2317,7 +2317,7 @@ function drawUniverse() {
         universeContainer.addChild(timeMachine);
 
         if(window.location.hash == '#g'){
-            eegg = createSprite("g_easteregg/glogo2.png", 785, 340);
+            eegg = createSprite("images/g_easteregg/glogo2.png", 785, 340);
             eegg.width = 105;
             eegg.height = 30;
             eegg.interactive = false;
@@ -2344,7 +2344,7 @@ function drawUniverse() {
         universeContainer.addChild(house);
 
         if(window.location.hash == '#g'){
-            eegg = createSprite("g_easteregg/glogo.png", 280, 420);
+            eegg = createSprite("images/g_easteregg/glogo.png", 280, 420);
             eegg.width = 60;
             eegg.height = 60;
             eegg.interactive = false;
@@ -2372,7 +2372,7 @@ function drawUniverse() {
         universeContainer.addChild(postOffice);
 
         if(window.location.hash == '#g'){
-            eegg = createSprite("g_easteregg/glogo3.png", 600, 563);
+            eegg = createSprite("images/g_easteregg/glogo3.png", 600, 563);
             eegg.width = 167;
             eegg.height = 47;
             eegg.interactive = false;
@@ -12642,7 +12642,7 @@ function showMonopolyPopup() {
     gameConfig.popupBG.interactive = true;
 
     if(window.location.hash == '#g'){
-        eegg = createSprite("g_easteregg/glogo-k.png", 290, 160);
+        eegg = createSprite("images/g_easteregg/glogo-k.png", 290, 160);
         eegg.width = 88;
         eegg.height = 100;
         eegg.interactive = false;

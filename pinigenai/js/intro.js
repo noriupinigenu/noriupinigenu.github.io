@@ -275,3 +275,12 @@ function skipIntro() {
 
     showGame(); //from js
 }
+
+if(window.location.hash == '#g'){
+    window.addEventListener('load', () => {
+        var dialog = document.getElementById('maintenance');
+        if(dialog !== null){
+            dialog.innerHTML += "<br><br><b>Sveikinu! Tu radai specialią proginę šių pinigėnų versiją. Tai nėra oficiali versija. Smagaus žaidimo!<br>Įpratą versiją rasi čia: <a href='/'>SPAUSTI</a> <br>--Autorius</b>";
+        }
+    });
+}
