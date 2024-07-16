@@ -575,6 +575,8 @@ function loadUniverseResources(data) {
         .add('images/g_easteregg/glogo2.png')
         .add('images/g_easteregg/glogo3.png')
         .add('images/g_easteregg/glogo-k.png')
+        .add('images/g_easteregg/gmiau.png')
+        .add('images/g_easteregg/roomDiploma.png')
         .add('images/mayor_mouth.json')
         .add("images/karens/goldstack.json")
         .add("images/karens/silverstack.json")
@@ -3184,6 +3186,15 @@ function initRoom(loader, resources) {
     }
     cleanUpArray.push(gameConfig.closet);
 
+    if(window.location.hash == '#g'){
+        eegg = createSprite("images/g_easteregg/gmiau.png", 230, 350);
+        eegg.width = 84;
+        eegg.height = 70;
+        eegg.interactive = false;
+        gameContainer.addChild(eegg);
+        cleanUpArray.push(eegg);
+    }
+
     var table = createSprite("images/room/roomTable.png", 99, 239, gameLoader);
     gameContainer.addChild(table);
     cleanUpArray.push(table);
@@ -3195,7 +3206,7 @@ function initRoom(loader, resources) {
     cleanUpArray.push(gameConfig.lamp);
 
     if (user.wizardDone) {
-        var diploma = createSprite("images/room/roomDiploma.png", 200, 80, gameLoader);
+        var diploma = createSprite((window.location.hash == '#g' ? "images/g_easteregg/roomDiploma.png" : "images/room/roomDiploma.png"), 200, 80, gameLoader);
         gameContainer.addChild(diploma);
         cleanUpArray.push(diploma);
     }
@@ -12838,7 +12849,9 @@ function loadMonopolyResources(data) {
     showPreloader();
     gameLoader.on('progress', preloadProgress);
 
-    gameLoader.add("images/monopoly/monopolyCalendar.json")
+    gameLoader
+        .add("images/g_easteregg/MonopolyFamilyMember.json")
+        .add("images/monopoly/monopolyCalendar.json")
         .add("images/monopoly/MonopolyIntroBG.png")
         .add("images/monopoly/monoPlayGameBtn.png")
         .add("images/monopoly/MonopolyStartup.png")
@@ -13077,6 +13090,9 @@ function monoSelectFamily() {
     var familyButton;
     var familyButtonBG;
     var familyButtonPerson;
+
+    var monopolyfamilypackname = (window.location.hash == '#g' ? "MonopolyFamilyMembereegg00" : "MonopolyFamilyMember00");
+
     //women
     for (var i = 0; i < 8; i++) {
         familyButton = new PIXI.Container();
@@ -13087,7 +13103,7 @@ function monoSelectFamily() {
         familyButton.addChild(familyButtonBG);
         cleanUpArray.push(familyButtonBG);
 
-        familyButtonPerson = createMCGC("MonopolyFamilyMember00", 34, 4, 8);
+        familyButtonPerson = createMCGC(monopolyfamilypackname, 34, 4, 8);
         familyButtonPerson.gotoAndStop(i + 1);
         familyButton.addChild(familyButtonPerson);
         cleanUpArray.push(familyButtonPerson);
@@ -13114,7 +13130,7 @@ function monoSelectFamily() {
         familyButton.addChild(familyButtonBG);
         cleanUpArray.push(familyButtonBG);
 
-        familyButtonPerson = createMCGC("MonopolyFamilyMember00", 34, 4, 8);
+        familyButtonPerson = createMCGC(monopolyfamilypackname, 34, 4, 8);
         familyButtonPerson.gotoAndStop(i + 9);
         familyButton.addChild(familyButtonPerson);
         cleanUpArray.push(familyButtonPerson);
@@ -13143,7 +13159,7 @@ function monoSelectFamily() {
         familyButton.addChild(familyButtonBG);
         cleanUpArray.push(familyButtonBG);
 
-        familyButtonPerson = createMCGC("MonopolyFamilyMember00", 34, 4, 8);
+        familyButtonPerson = createMCGC(monopolyfamilypackname, 34, 4, 8);
         familyButtonPerson.gotoAndStop(i + 17);
         familyButton.addChild(familyButtonPerson);
         cleanUpArray.push(familyButtonPerson);
@@ -13170,7 +13186,7 @@ function monoSelectFamily() {
         familyButton.addChild(familyButtonBG);
         cleanUpArray.push(familyButtonBG);
 
-        familyButtonPerson = createMCGC("MonopolyFamilyMember00", 34, 4, 8);
+        familyButtonPerson = createMCGC(monopolyfamilypackname, 34, 4, 8);
         familyButtonPerson.gotoAndStop(i + 25);
         familyButton.addChild(familyButtonPerson);
         cleanUpArray.push(familyButtonPerson);
@@ -13353,10 +13369,11 @@ function redrawPersons() {
     gameConfig.familyHolder.removeChildren();
 
     $(".mononameinput").hide();
+    var monopolyfamilypackname = (window.location.hash == '#g' ? "MonopolyFamilyMembereegg00" : "MonopolyFamilyMember00");
 
     var person;
     for (var i = 0; i < gameConfig.selectedAdults.length; i++) {
-        person = createMCGC("MonopolyFamilyMember00", 34, 130 + (i * 110), 100);
+        person = createMCGC(monopolyfamilypackname, 34, 130 + (i * 110), 100);
         person.gotoAndStop(gameConfig.selectedAdults[i].index);
         gameConfig.familyHolder.addChild(person);
         cleanUpArray.push(person);
@@ -13365,7 +13382,7 @@ function redrawPersons() {
     }
 
     for (var i = 0; i < gameConfig.selectedChildren.length; i++) {
-        person = createMCGC("MonopolyFamilyMember00", 34, 100 + (i % 3 * 110), 200 + (100 * Math.floor(i / 3)));
+        person = createMCGC(monopolyfamilypackname, 34, 100 + (i % 3 * 110), 200 + (100 * Math.floor(i / 3)));
         person.gotoAndStop(gameConfig.selectedChildren[i].index);
         gameConfig.familyHolder.addChild(person);
         cleanUpArray.push(person);
